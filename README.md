@@ -1,5 +1,13 @@
 # Meetup RSVP API Trending Topics
 
+## Preface
+
+I am not a data engineer, so there will probably be many data engineering best practices
+that are not followed. Also, this project should be split into 3 repositories, but for
+the sake of ease of navigation, I decided to everything here. However, this means 
+that I can't use sbt publishLocal to package a docker container for all 3 main classes,
+so `sbt` will be required as an dependency to run this project (apologies for that).
+
 ## How to run
 
 To run the application, you will need to run these following commands in order
