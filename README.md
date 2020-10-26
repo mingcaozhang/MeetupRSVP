@@ -1,4 +1,4 @@
-# Meetup RSVP API Trending Topics
+# Meetup RSVP Trending Topics
 
 ## Preface
 
