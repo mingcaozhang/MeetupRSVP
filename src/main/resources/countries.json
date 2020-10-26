@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Canada",
+    "cities": ["Montreal", "Toronto", "Vancouver"]
+  },
+  {
+    "name": "United States of America",
+    "cities": ["New York", "San Francisco", "Seattle"]
+  },
+  {
+    "name": "United Kingdom",
+    "cities": ["London", "Manchester", "Birmingham"]
+  },
+  {
+    "name": "France",
+    "cities": ["Paris", "Lyon", "Marseille"]
+  },
+  {
+    "name": "Germany",
+    "cities": ["Berlin", "Hamburg", "Munich"]
+  },
+  {
+    "name": "Ireland",
+    "cities": ["Dublin", "Belfast", "Cork"]
+  },
+  {
+    "name": "Netherlands",
+    "cities": ["Amsterdam", "Rotterdam", "The Hague"]
+  },
+  {
+    "name": "Spain",
+    "cities": ["Madrid", "Barcelona", "Valencia"]
+  },
+  {
+    "name": "Italy",
+    "cities": ["Rome", "Milan", "Naples"]
+  },
+  {
+    "name": "Japan",
+    "cities": ["Tokyo", "Osaka", "Kyoto"]
+  },
+  {
+    "name": "Korea",
+    "cities": ["Seoul", "Busan", "Incheon"]
+  }
+]

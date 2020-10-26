@@ -1,0 +1,34 @@
+{
+  "venue": {
+    "venue_name": "Online event",
+    "lon": 179.1962,
+    "lat": -8.521147,
+    "venue_id": 9119181
+  },
+  "visibility": "public",
+  "response": "yes",
+  "guests": 0,
+  "member": {
+    "member_id": 12345678,
+    "photo": "test_photo",
+    "member_name": "Member Name"
+  },
+  "rsvp_id": null,
+  "mtime": 1599821385000,
+  "event": {
+    "event_name": "test_event_name",
+    "event_id": "test_event_id",
+    "time": 1600498800000,
+    "event_url": "test_event_url"
+  },
+  "group": {
+    "group_topics": [],
+    "group_country": null,
+    "group_city": null,
+    "group_id": 22707927,
+    "group_name": "test_group_name",
+    "group_lon": 25.27,
+    "group_urlname": "test_group_urlname",
+    "group_lat": 54.7
+  }
+}
